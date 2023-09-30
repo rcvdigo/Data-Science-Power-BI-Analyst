@@ -6,7 +6,7 @@ Acessar a pasta DESAFIO-RELATORIO-CONCLUÍDO.
 
 Dentro da pasta irá encontrar o arquivo: Relatorio-Vendas-ProdutosXSegmentos.pbix
 
-![Formação Power BI Analyst - PG1](https://github.com/rcvdigo/Data-Science-Power-BI-Analyst/blob/main/DESAFIO-RELATORIO-CONCLU%C3%8DDO/Formacao-Power-BI-Analyst-PG1.png)
+![Formação Power BI Analyst - PG1](https://github.com/rcvdigo/Data-Science-Power-BI-Analyst/blob/main/DESAFIO-RELATORIO-CONCLUÍDO/Formacao-Power-BI-Analyst-PG1.png)
 
 ![Formação Power BI Analyst - PG2](https://github.com/rcvdigo/Data-Science-Power-BI-Analyst/blob/main/DESAFIO-RELATORIO-CONCLU%C3%8DDO/Formacao-Power-BI-Analyst-PG2.png)
 
