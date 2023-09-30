@@ -13,6 +13,8 @@ Dentro da pasta irá encontrar o arquivo: Relatorio-Vendas-ProdutosXSegmentos.pb
 
 ![Formação Power BI Analyst - PG1](https://github.com/rcvdigo/Data-Science-Power-BI-Analyst/raw/main/DESAFIO-RELATORIO-CONCLU%C3%8DDO/Formacao-Power-BI-Analyst-PG1.png)
 
+![Formação Power BI Analyst - PG2](https://github.com/rcvdigo/Data-Science-Power-BI-Analyst/raw/main/DESAFIO-RELATORIO-CONCLU%C3%8DDO/Formacao-Power-BI-Analyst-PG2.png)
+
 ![Formação Power BI Analyst - PG2](https://github.com/rcvdigo/Data-Science-Power-BI-Analyst/blob/main/DESAFIO-RELATORIO-CONCLU%C3%8DDO/Formacao-Power-BI-Analyst-PG2.png)
 
 ![Produtos e Segmento](https://github.com/rcvdigo/Data-Science-Power-BI-Analyst/blob/main/DESAFIO-RELATORIO-CONCLU%C3%8DDO/Formacao-Power-BI-Analyst-PG3.png)
